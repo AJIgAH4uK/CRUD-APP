@@ -6,4 +6,4 @@ DB_DATABASE=project
 DB_USERNAME=root
 DB_PASSWORD=root
 
-$php artisan migrate
+$ php artisan migrate
