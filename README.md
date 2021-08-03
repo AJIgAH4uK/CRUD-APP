@@ -1,4 +1,3 @@
-INSTALL:
 git clone https://github.com/AJIgAH4uK/CRUD-APP
 
 .env setiings
